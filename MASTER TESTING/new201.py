@@ -25,7 +25,7 @@ current_ip = requests.get(
     proxies=http_proxy,
     verify=False
 )
-#set_new_ip()
+set_new_ip()
 
 
 
